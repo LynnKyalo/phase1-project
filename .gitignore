@@ -24,10 +24,7 @@ ENV/
 *.twb~
 *.log
 
-# Data files (optional — comment out if you want to keep them on GitHub)
-*.csv
-*.xlsx
-*.xls
+
 
 # OS-generated files
 *.bak
