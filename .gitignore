@@ -3,8 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
 
 # Hidden system files
 .DS_Store
@@ -19,12 +17,6 @@ ENV/
 
 # VSCode settings
 .vscode/
-
-# Tableau files (temporary cache or logs)
-*.twb~
-*.log
-
-
 
 # OS-generated files
 *.bak
