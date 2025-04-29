@@ -70,14 +70,12 @@ You can view the interactive dashboard here:
 This Tableau dashboard provides a visual summary of aviation accident trends and risk patterns, built using cleaned accident data from the National Transportation Safety Board (NTSB). The goal is to help stakeholders make informed decisions about which aircraft models or makes are safer for investment.
 
 ### 📌 Dashboard Sections
-1. **Accident Trends Over Time**  
-   A line chart showing how the number of aviation accidents has changed from 1962 to 2023, helping to identify whether accidents are increasing or decreasing over time.
-2. **Aircraft Models with the Highest and Lowest Accidents**  
-   A series of bar charts that highlight which aircraft models are associated with the most and fewest accidents. This helps stakeholders avoid high-risk models and consider low-risk options.
-3. **Fatality Rate by Aircraft Model**  
-   A boxplot showing the distribution of fatality rates across different aircraft models. This helps identify models with more severe outcomes.
-4. **Accidents by Aircraft Make**  
-   Pie or bar charts showing the accident count distribution among aircraft manufacturers (makes), allowing decision-makers to evaluate make-level risk.
+1.**Bar Chart – Accidents by Aircraft Model**
+This chart presents the number of recorded accidents for each aircraft model, helping identify which models have the highest and lowest incident rates.
+2.**Line Chart – Accident Trends Over the Years**
+This visualization shows how the number of aviation accidents has changed annually, providing insights into whether aviation safety is improving or declining over time.
+3.**Pie Chart – Distribution of Accident Severity**
+This chart illustrates the proportions of different injury severities (e.g., fatal, serious, minor, none) across all incidents, offering a clear picture of how severe most accidents tend to be.
 
 
 ### 🎯 Purpose
