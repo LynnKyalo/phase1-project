@@ -1,32 +1,45 @@
-# Prerequisites
-*.d
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Hidden system files
+.DS_Store
+Thumbs.db
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Environment files
+.env
+.venv/
+venv/
+env/
+ENV/
 
-# Fortran module files
-*.mod
-*.smod
+# VSCode settings
+.vscode/
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Tableau files (temporary cache or logs)
+*.twb~
+*.log
 
-# Executables
-*.exe
-*.out
-*.app
+# Data files (optional — comment out if you want to keep them on GitHub)
+*.csv
+*.xlsx
+*.xls
+
+# OS-generated files
+*.bak
+*.tmp
+*.swp
+
+# Ignore virtual environment packages if using pipenv or poetry
+Pipfile.lock
+poetry.lock
+
+
+
+
+
+
